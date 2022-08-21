@@ -10,7 +10,6 @@ import os
 import sys
 
 import torch
-import numpy as np
 from tqdm import tqdm
 
 from common import setup_cfg, vis_bases
